@@ -1,0 +1,1087 @@
+[
+  {
+    "id_artist": 82205,
+    "artist": "50 CENT",
+    "webartist": "50cent"
+  },
+  {
+    "id_artist": 25560,
+    "artist": "AARON NEVILLE",
+    "webartist": "aaronneville"
+  },
+  {
+    "id_artist": 23332,
+    "artist": "ABBA",
+    "webartist": "abba"
+  },
+  {
+    "id_artist": 12194,
+    "artist": "AC/DC",
+    "webartist": "acdc"
+  },
+  {
+    "id_artist": 14865,
+    "artist": "AEROSMITH",
+    "webartist": "aerosmith"
+  },
+  {
+    "id_artist": 9843,
+    "artist": "AFRIKA BAMBAATAA",
+    "webartist": "afrikabambaataa"
+  },
+  {
+    "id_artist": 20547,
+    "artist": "AL GREEN",
+    "webartist": "algreen"
+  },
+  {
+    "id_artist": 20463,
+    "artist": "ALICE COOPER",
+    "webartist": "alicecooper"
+  },
+  {
+    "id_artist": 60140,
+    "artist": "ALL SAINTS",
+    "webartist": "allsaints"
+  },
+  {
+    "id_artist": 20875,
+    "artist": "ALLMAN BROTHERS BAND",
+    "webartist": "allmanbrothersband"
+  },
+  {
+    "id_artist": 88718,
+    "artist": "AMY WINEHOUSE",
+    "webartist": "amywinehouse"
+  },
+  {
+    "id_artist": 69077,
+    "artist": "ANDY KAUFMAN",
+    "webartist": "andykaufman"
+  },
+  {
+    "id_artist": 12173,
+    "artist": "ANIMALS",
+    "webartist": "animals"
+  },
+  {
+    "id_artist": 60432,
+    "artist": "ARCHIE BELL",
+    "webartist": "archiebell"
+  },
+  {
+    "id_artist": 10204,
+    "artist": "ARETHA FRANKLIN",
+    "webartist": "arethafranklin"
+  },
+  {
+    "id_artist": 20605,
+    "artist": "B.B. KING",
+    "webartist": "bbking"
+  },
+  {
+    "id_artist": 20900,
+    "artist": "BAND",
+    "webartist": "band"
+  },
+  {
+    "id_artist": 42955,
+    "artist": "BAND OF GYPSIES",
+    "webartist": "bandofgypsies"
+  },
+  {
+    "id_artist": 9877,
+    "artist": "BEACH BOYS",
+    "webartist": "beachboys"
+  },
+  {
+    "id_artist": 15222,
+    "artist": "BEASTIE BOYS",
+    "webartist": "beastieboys"
+  },
+  {
+    "id_artist": 11636,
+    "artist": "BEATLES",
+    "webartist": "beatles"
+  },
+  {
+    "id_artist": 10893,
+    "artist": "BEE GEES",
+    "webartist": "beegees"
+  },
+  {
+    "id_artist": 26214,
+    "artist": "BELINDA CARLISE",
+    "webartist": "belindacarlise"
+  },
+  {
+    "id_artist": 69306,
+    "artist": "BEYONCE",
+    "webartist": "beyonce"
+  },
+  {
+    "id_artist": 21223,
+    "artist": "BILL WITHERS",
+    "webartist": "billwithers"
+  },
+  {
+    "id_artist": 20593,
+    "artist": "BILLY JOEL",
+    "webartist": "billyjoel"
+  },
+  {
+    "id_artist": 10150,
+    "artist": "BLACK SABBATH",
+    "webartist": "blacksabbath"
+  },
+  {
+    "id_artist": 13839,
+    "artist": "BLONDIE",
+    "webartist": "blondie"
+  },
+  {
+    "id_artist": 42785,
+    "artist": "BO DIDDLEY",
+    "webartist": "bodiddley"
+  },
+  {
+    "id_artist": 20307,
+    "artist": "BOB DYLAN",
+    "webartist": "bobdylan"
+  },
+  {
+    "id_artist": 20639,
+    "artist": "BOB MARLEY",
+    "webartist": "bobmarley"
+  },
+  {
+    "id_artist": 21287,
+    "artist": "BOBBY DARIN",
+    "webartist": "bobbydarin"
+  },
+  {
+    "id_artist": 18637,
+    "artist": "BONNIE RAITT",
+    "webartist": "bonnieraitt"
+  },
+  {
+    "id_artist": 21257,
+    "artist": "BOOKER T.& THE MG'S",
+    "webartist": "bookertthemgs"
+  },
+  {
+    "id_artist": 14951,
+    "artist": "BOSTON",
+    "webartist": "boston"
+  },
+  {
+    "id_artist": 20775,
+    "artist": "BRUCE SPRINGSTEEN",
+    "webartist": "brucespringsteen"
+  },
+  {
+    "id_artist": 28238,
+    "artist": "BUDDY HOLLY",
+    "webartist": "buddyholly"
+  },
+  {
+    "id_artist": 21261,
+    "artist": "BUFFALO SPRINGFIELD",
+    "webartist": "buffalospringfield"
+  },
+  {
+    "id_artist": 31161,
+    "artist": "BYRDS",
+    "webartist": "byrds"
+  },
+  {
+    "id_artist": 20698,
+    "artist": "CARL PERKINS",
+    "webartist": "carlperkins"
+  },
+  {
+    "id_artist": 9952,
+    "artist": "CARPENTERS",
+    "webartist": "carpenters"
+  },
+  {
+    "id_artist": 12502,
+    "artist": "CHEAP TRICK",
+    "webartist": "cheaptrick"
+  },
+  {
+    "id_artist": 17461,
+    "artist": "CHIC",
+    "webartist": "chic"
+  },
+  {
+    "id_artist": 21271,
+    "artist": "CHUBBY CHECKER",
+    "webartist": "chubbychecker"
+  },
+  {
+    "id_artist": 20354,
+    "artist": "CHUCK BERRY",
+    "webartist": "chuckberry"
+  },
+  {
+    "id_artist": 24078,
+    "artist": "CINDY LAUPER",
+    "webartist": "cindylauper"
+  },
+  {
+    "id_artist": 10895,
+    "artist": "CLASH",
+    "webartist": "clash"
+  },
+  {
+    "id_artist": 70601,
+    "artist": "COLDPLAY",
+    "webartist": "coldplay"
+  },
+  {
+    "id_artist": 21282,
+    "artist": "CREAM",
+    "webartist": "cream"
+  },
+  {
+    "id_artist": 19090,
+    "artist": "CREEDENCE CLEARWATER REVIVAL",
+    "webartist": "creedenceclearwaterrevival"
+  },
+  {
+    "id_artist": 20473,
+    "artist": "CROSBY STILLS NASH & YOUNG",
+    "webartist": "crosbystillsnashyoung"
+  },
+  {
+    "id_artist": 12484,
+    "artist": "CURE",
+    "webartist": "cure"
+  },
+  {
+    "id_artist": 55934,
+    "artist": "DAFT PUNK",
+    "webartist": "daftpunk"
+  },
+  {
+    "id_artist": 10157,
+    "artist": "DAVID BOWIE",
+    "webartist": "davidbowie"
+  },
+  {
+    "id_artist": 20560,
+    "artist": "DEBORAH HARRY",
+    "webartist": "deborahharry"
+  },
+  {
+    "id_artist": 10282,
+    "artist": "DEEP PURPLE",
+    "webartist": "deeppurple"
+  },
+  {
+    "id_artist": 21452,
+    "artist": "DEL SHANNON",
+    "webartist": "delshannon"
+  },
+  {
+    "id_artist": 9840,
+    "artist": "DEPECHE MODE",
+    "webartist": "depechemode"
+  },
+  {
+    "id_artist": 39665,
+    "artist": "DEREK AND THE DOMINOS",
+    "webartist": "derekandthedominos"
+  },
+  {
+    "id_artist": 11981,
+    "artist": "DIANA ROSS",
+    "webartist": "dianaross"
+  },
+  {
+    "id_artist": 25496,
+    "artist": "DIONNE WARWICK",
+    "webartist": "dionnewarwick"
+  },
+  {
+    "id_artist": 31164,
+    "artist": "DIXIE CUPS",
+    "webartist": "dixiecups"
+  },
+  {
+    "id_artist": 31419,
+    "artist": "DOLLY PARTON",
+    "webartist": "dollyparton"
+  },
+  {
+    "id_artist": 31477,
+    "artist": "DOMINO FATS",
+    "webartist": "dominofats"
+  },
+  {
+    "id_artist": 20251,
+    "artist": "DONNA SUMMER",
+    "webartist": "donnasummer"
+  },
+  {
+    "id_artist": 12175,
+    "artist": "DOORS",
+    "webartist": "doors"
+  },
+  {
+    "id_artist": 17605,
+    "artist": "DRIFTERS",
+    "webartist": "drifters"
+  },
+  {
+    "id_artist": 12607,
+    "artist": "EAGLES",
+    "webartist": "eagles"
+  },
+  {
+    "id_artist": 10380,
+    "artist": "EARTH WIND & FIRE",
+    "webartist": "earthwindfire"
+  },
+  {
+    "id_artist": 20595,
+    "artist": "ELTON JOHN",
+    "webartist": "eltonjohn"
+  },
+  {
+    "id_artist": 94768,
+    "artist": "ELVIS COSTELLO",
+    "webartist": "elviscostello"
+  },
+  {
+    "id_artist": 21133,
+    "artist": "ELVIS PRESLEY",
+    "webartist": "elvispresley"
+  },
+  {
+    "id_artist": 76243,
+    "artist": "EMINEM",
+    "webartist": "eminem"
+  },
+  {
+    "id_artist": 20450,
+    "artist": "ERIC CLAPTON",
+    "webartist": "ericclapton"
+  },
+  {
+    "id_artist": 11695,
+    "artist": "EUROPE",
+    "webartist": "europe"
+  },
+  {
+    "id_artist": 10280,
+    "artist": "EURYTHMICS",
+    "webartist": "eurythmics"
+  },
+  {
+    "id_artist": 20509,
+    "artist": "EVERLY BROTHERS",
+    "webartist": "everlybrothers"
+  },
+  {
+    "id_artist": 21639,
+    "artist": "FIVE SATINS",
+    "webartist": "fivesatins"
+  },
+  {
+    "id_artist": 21641,
+    "artist": "FLAMINGOS",
+    "webartist": "flamingos"
+  },
+  {
+    "id_artist": 9847,
+    "artist": "FLEETWOOD MAC",
+    "webartist": "fleetwoodmac"
+  },
+  {
+    "id_artist": 10208,
+    "artist": "FOREIGNER",
+    "webartist": "foreigner"
+  },
+  {
+    "id_artist": 17459,
+    "artist": "FOUR TOPS",
+    "webartist": "fourtops"
+  },
+  {
+    "id_artist": 25142,
+    "artist": "FRANK SINATRA",
+    "webartist": "franksinatra"
+  },
+  {
+    "id_artist": 124358,
+    "artist": "FRANKIE LYMON AND THE TEENAGERS",
+    "webartist": "frankielymonandtheteenagers"
+  },
+  {
+    "id_artist": 88688,
+    "artist": "FRANZ FERDINAND",
+    "webartist": "franzferdinand"
+  },
+  {
+    "id_artist": 55722,
+    "artist": "FUN LOVIN' CRIMINALS",
+    "webartist": "funlovincriminals"
+  },
+  {
+    "id_artist": 21489,
+    "artist": "GENE VINCENT",
+    "webartist": "genevincent"
+  },
+  {
+    "id_artist": 20559,
+    "artist": "GEORGE HARRISON",
+    "webartist": "georgeharrison"
+  },
+  {
+    "id_artist": 21265,
+    "artist": "GLEN CAMPBELL",
+    "webartist": "glencampbell"
+  },
+  {
+    "id_artist": 23900,
+    "artist": "GLORIA GAYNOR",
+    "webartist": "gloriagaynor"
+  },
+  {
+    "id_artist": 107710,
+    "artist": "GNARLS BARKLEY",
+    "webartist": "gnarlsbarkley"
+  },
+  {
+    "id_artist": 50527,
+    "artist": "GREEN DAY",
+    "webartist": "greenday"
+  },
+  {
+    "id_artist": 15159,
+    "artist": "GUNS N' ROSES",
+    "webartist": "gunsnroses"
+  },
+  {
+    "id_artist": 82707,
+    "artist": "HOLLYWOOD STUDIO SYMPHONY",
+    "webartist": "hollywoodstudiosymphony"
+  },
+  {
+    "id_artist": 20710,
+    "artist": "IGGY POP",
+    "webartist": "iggypop"
+  },
+  {
+    "id_artist": 14679,
+    "artist": "ISLEY BROTHERS",
+    "webartist": "isleybrothers"
+  },
+  {
+    "id_artist": 21496,
+    "artist": "JACKIE WILSON",
+    "webartist": "jackiewilson"
+  },
+  {
+    "id_artist": 20414,
+    "artist": "JACKSON BROWNE",
+    "webartist": "jacksonbrowne"
+  },
+  {
+    "id_artist": 16106,
+    "artist": "JACKSON FIVE",
+    "webartist": "jacksonfive"
+  },
+  {
+    "id_artist": 15015,
+    "artist": "JAM",
+    "webartist": "jam"
+  },
+  {
+    "id_artist": 20413,
+    "artist": "JAMES BROWN",
+    "webartist": "jamesbrown"
+  },
+  {
+    "id_artist": 111168,
+    "artist": "JAMES TAYLOR",
+    "webartist": "jamestaylor"
+  },
+  {
+    "id_artist": 21363,
+    "artist": "JANIS JOPLIN",
+    "webartist": "janisjoplin"
+  },
+  {
+    "id_artist": 21666,
+    "artist": "JAY \"SCREAMIN\" HAWKINS",
+    "webartist": "jayscreaminhawkins"
+  },
+  {
+    "id_artist": 55384,
+    "artist": "JAY Z",
+    "webartist": "jayz"
+  },
+  {
+    "id_artist": 50074,
+    "artist": "JEFF BUCKLEY",
+    "webartist": "jeffbuckley"
+  },
+  {
+    "id_artist": 18501,
+    "artist": "JEFFERSON AIRPLANE",
+    "webartist": "jeffersonairplane"
+  },
+  {
+    "id_artist": 20933,
+    "artist": "JERRY BUTLER",
+    "webartist": "jerrybutler"
+  },
+  {
+    "id_artist": 20619,
+    "artist": "JERRY LEE LEWIS",
+    "webartist": "jerryleelewis"
+  },
+  {
+    "id_artist": 31163,
+    "artist": "JIMI HENDRIX EXPERIENCE",
+    "webartist": "jimihendrixexperience"
+  },
+  {
+    "id_artist": 20946,
+    "artist": "JIMMY CLIFF",
+    "webartist": "jimmycliff"
+  },
+  {
+    "id_artist": 20348,
+    "artist": "JOAN BAEZ",
+    "webartist": "joanbaez"
+  },
+  {
+    "id_artist": 20592,
+    "artist": "JOAN JETT",
+    "webartist": "joanjett"
+  },
+  {
+    "id_artist": 20456,
+    "artist": "JOE COCKER",
+    "webartist": "joecocker"
+  },
+  {
+    "id_artist": 21757,
+    "artist": "JOE TURNER",
+    "webartist": "joeturner"
+  },
+  {
+    "id_artist": 20573,
+    "artist": "JOHN LEE HOOKER",
+    "webartist": "johnleehooker"
+  },
+  {
+    "id_artist": 9864,
+    "artist": "JOHN LENNON",
+    "webartist": "johnlennon"
+  },
+  {
+    "id_artist": 56459,
+    "artist": "JOHNNY CASH",
+    "webartist": "johnnycash"
+  },
+  {
+    "id_artist": 20661,
+    "artist": "JONI MITCHELL",
+    "webartist": "jonimitchell"
+  },
+  {
+    "id_artist": 21048,
+    "artist": "JOY DIVISION",
+    "webartist": "joydivision"
+  },
+  {
+    "id_artist": 69148,
+    "artist": "JUSTIN TIMBERLAKE",
+    "webartist": "justintimberlake"
+  },
+  {
+    "id_artist": 85458,
+    "artist": "KANYE WEST",
+    "webartist": "kanyewest"
+  },
+  {
+    "id_artist": 21371,
+    "artist": "KINGSMEN",
+    "webartist": "kingsmen"
+  },
+  {
+    "id_artist": 20608,
+    "artist": "KINKS",
+    "webartist": "kinks"
+  },
+  {
+    "id_artist": 31216,
+    "artist": "KYLE MINOGUE",
+    "webartist": "kyleminogue"
+  },
+  {
+    "id_artist": 12174,
+    "artist": "LED ZEPPELIN",
+    "webartist": "ledzeppelin"
+  },
+  {
+    "id_artist": 34848,
+    "artist": "LITTLE RICHARD",
+    "webartist": "littlerichard"
+  },
+  {
+    "id_artist": 31209,
+    "artist": "LOS LOBOS",
+    "webartist": "loslobos"
+  },
+  {
+    "id_artist": 20726,
+    "artist": "LOU REED",
+    "webartist": "loureed"
+  },
+  {
+    "id_artist": 23313,
+    "artist": "LOUIS ARMSTRONG",
+    "webartist": "louisarmstrong"
+  },
+  {
+    "id_artist": 35242,
+    "artist": "LOVE AFFAIR",
+    "webartist": "loveaffair"
+  },
+  {
+    "id_artist": 21388,
+    "artist": "LOVIN' SPOONFUL",
+    "webartist": "lovinspoonful"
+  },
+  {
+    "id_artist": 21072,
+    "artist": "LYNYRD SKYNYRD",
+    "webartist": "lynyrdskynyrd"
+  },
+  {
+    "id_artist": 10262,
+    "artist": "MADONNA",
+    "webartist": "madonna"
+  },
+  {
+    "id_artist": 16101,
+    "artist": "MAMA'S & PAPA'S",
+    "webartist": "mamaspapas"
+  },
+  {
+    "id_artist": 21007,
+    "artist": "MARVIN GAYE",
+    "webartist": "marvingaye"
+  },
+  {
+    "id_artist": 17962,
+    "artist": "METALLICA",
+    "webartist": "metallica"
+  },
+  {
+    "id_artist": 20583,
+    "artist": "MICHAEL JACKSON",
+    "webartist": "michaeljackson"
+  },
+  {
+    "id_artist": 90227,
+    "artist": "MIKE NOWARK",
+    "webartist": "mikenowark"
+  },
+  {
+    "id_artist": 21097,
+    "artist": "MIRACLES",
+    "webartist": "miracles"
+  },
+  {
+    "id_artist": 53350,
+    "artist": "MISSY ELLIOTT",
+    "webartist": "missyelliott"
+  },
+  {
+    "id_artist": 51312,
+    "artist": "MODERN LOVERS",
+    "webartist": "modernlovers"
+  },
+  {
+    "id_artist": 57404,
+    "artist": "MORCHEEBA",
+    "webartist": "morcheeba"
+  },
+  {
+    "id_artist": 21100,
+    "artist": "MOTT THE HOOPLE",
+    "webartist": "mottthehoople"
+  },
+  {
+    "id_artist": 47306,
+    "artist": "MUDDY WATERS",
+    "webartist": "muddywaters"
+  },
+  {
+    "id_artist": 26851,
+    "artist": "NAT COLE",
+    "webartist": "natcole"
+  },
+  {
+    "id_artist": 20850,
+    "artist": "NEIL YOUNG",
+    "webartist": "neilyoung"
+  },
+  {
+    "id_artist": 12838,
+    "artist": "NEW ORDER",
+    "webartist": "neworder"
+  },
+  {
+    "id_artist": 21108,
+    "artist": "NEW YORK DOLLS",
+    "webartist": "newyorkdolls"
+  },
+  {
+    "id_artist": 35516,
+    "artist": "NIRVANA",
+    "webartist": "nirvana"
+  },
+  {
+    "id_artist": 27147,
+    "artist": "NORMAN GREENBAUM",
+    "webartist": "normangreenbaum"
+  },
+  {
+    "id_artist": 141459,
+    "artist": "NOWHERE BOYS",
+    "webartist": "nowhereboys"
+  },
+  {
+    "id_artist": 50258,
+    "artist": "OASIS",
+    "webartist": "oasis"
+  },
+  {
+    "id_artist": 21435,
+    "artist": "OTIS REDDING",
+    "webartist": "otisredding"
+  },
+  {
+    "id_artist": 53893,
+    "artist": "OUTKAST",
+    "webartist": "outkast"
+  },
+  {
+    "id_artist": 21602,
+    "artist": "PATSY CLINE",
+    "webartist": "patsycline"
+  },
+  {
+    "id_artist": 30151,
+    "artist": "PATTI SMITH",
+    "webartist": "pattismith"
+  },
+  {
+    "id_artist": 20135,
+    "artist": "PAUL YOUNG",
+    "webartist": "paulyoung"
+  },
+  {
+    "id_artist": 40741,
+    "artist": "PEARL JAM",
+    "webartist": "pearljam"
+  },
+  {
+    "id_artist": 15283,
+    "artist": "PERCY SLEDGE",
+    "webartist": "percysledge"
+  },
+  {
+    "id_artist": 11322,
+    "artist": "PINK FLOYD",
+    "webartist": "pinkfloyd"
+  },
+  {
+    "id_artist": 20702,
+    "artist": "PIXIES",
+    "webartist": "pixies"
+  },
+  {
+    "id_artist": 89127,
+    "artist": "PJ HARVEY",
+    "webartist": "pjharvey"
+  },
+  {
+    "id_artist": 21721,
+    "artist": "PLATTERS",
+    "webartist": "platters"
+  },
+  {
+    "id_artist": 11275,
+    "artist": "POLICE",
+    "webartist": "police"
+  },
+  {
+    "id_artist": 10095,
+    "artist": "PRINCE",
+    "webartist": "prince"
+  },
+  {
+    "id_artist": 16693,
+    "artist": "PUBLIC ENEMY",
+    "webartist": "publicenemy"
+  },
+  {
+    "id_artist": 10882,
+    "artist": "QUEEN",
+    "webartist": "queen"
+  },
+  {
+    "id_artist": 20727,
+    "artist": "R.E.M.",
+    "webartist": "rem"
+  },
+  {
+    "id_artist": 23233,
+    "artist": "RACHEL PORTMAN",
+    "webartist": "rachelportman"
+  },
+  {
+    "id_artist": 46368,
+    "artist": "RADIOHEAD",
+    "webartist": "radiohead"
+  },
+  {
+    "id_artist": 11904,
+    "artist": "RAMONES",
+    "webartist": "ramones"
+  },
+  {
+    "id_artist": 20677,
+    "artist": "RANDY NEWMAN",
+    "webartist": "randynewman"
+  },
+  {
+    "id_artist": 20439,
+    "artist": "RAY CHARLES",
+    "webartist": "raycharles"
+  },
+  {
+    "id_artist": 31191,
+    "artist": "RICK JAMES",
+    "webartist": "rickjames"
+  },
+  {
+    "id_artist": 21439,
+    "artist": "RIGHTEOUS BROTHERS",
+    "webartist": "righteousbrothers"
+  },
+  {
+    "id_artist": 29174,
+    "artist": "ROBERTA FLACK",
+    "webartist": "robertaflack"
+  },
+  {
+    "id_artist": 20780,
+    "artist": "ROD STEWART",
+    "webartist": "rodstewart"
+  },
+  {
+    "id_artist": 12177,
+    "artist": "ROLLING STONES",
+    "webartist": "rollingstones"
+  },
+  {
+    "id_artist": 16770,
+    "artist": "RONETTES",
+    "webartist": "ronettes"
+  },
+  {
+    "id_artist": 20690,
+    "artist": "ROY ORBISON",
+    "webartist": "royorbison"
+  },
+  {
+    "id_artist": 14177,
+    "artist": "RUN DMC",
+    "webartist": "rundmc"
+  },
+  {
+    "id_artist": 21278,
+    "artist": "SAM COOKE",
+    "webartist": "samcooke"
+  },
+  {
+    "id_artist": 98679,
+    "artist": "SANTANA",
+    "webartist": "santana"
+  },
+  {
+    "id_artist": 12181,
+    "artist": "SEX PISTOLS",
+    "webartist": "sexpistols"
+  },
+  {
+    "id_artist": 53617,
+    "artist": "SHANIA TWAIN",
+    "webartist": "shaniatwain"
+  },
+  {
+    "id_artist": 11989,
+    "artist": "SIMON & GARFUNKEL",
+    "webartist": "simongarfunkel"
+  },
+  {
+    "id_artist": 11942,
+    "artist": "SIMPLY RED",
+    "webartist": "simplyred"
+  },
+  {
+    "id_artist": 20686,
+    "artist": "SINEAD O'CONNOR",
+    "webartist": "sineadoconnor"
+  },
+  {
+    "id_artist": 17325,
+    "artist": "SLY & THE FAMILY STONE",
+    "webartist": "slythefamilystone"
+  },
+  {
+    "id_artist": 20419,
+    "artist": "SOLOMON BURKE",
+    "webartist": "solomonburke"
+  },
+  {
+    "id_artist": 17174,
+    "artist": "SPENCER DAVIS GROUP",
+    "webartist": "spencerdavisgroup"
+  },
+  {
+    "id_artist": 30814,
+    "artist": "SPRINGFIELD DUSTY",
+    "webartist": "springfielddusty"
+  },
+  {
+    "id_artist": 21748,
+    "artist": "STAPLE SINGERS",
+    "webartist": "staplesingers"
+  },
+  {
+    "id_artist": 14248,
+    "artist": "STEPPENWOLF",
+    "webartist": "steppenwolf"
+  },
+  {
+    "id_artist": 20843,
+    "artist": "STEVIE WONDER",
+    "webartist": "steviewonder"
+  },
+  {
+    "id_artist": 32483,
+    "artist": "SUGARHILL GANG",
+    "webartist": "sugarhillgang"
+  },
+  {
+    "id_artist": 21190,
+    "artist": "SUPREMES",
+    "webartist": "supremes"
+  },
+  {
+    "id_artist": 12577,
+    "artist": "SURVIVOR",
+    "webartist": "survivor"
+  },
+  {
+    "id_artist": 15046,
+    "artist": "TEMPTATIONS",
+    "webartist": "temptations"
+  },
+  {
+    "id_artist": 20816,
+    "artist": "TINA TURNER",
+    "webartist": "tinaturner"
+  },
+  {
+    "id_artist": 24363,
+    "artist": "TOM PETTY",
+    "webartist": "tompetty"
+  },
+  {
+    "id_artist": 20832,
+    "artist": "TOM WAITS",
+    "webartist": "tomwaits"
+  },
+  {
+    "id_artist": 20438,
+    "artist": "TRACY CHAPMAN",
+    "webartist": "tracychapman"
+  },
+  {
+    "id_artist": 30803,
+    "artist": "TREVOR JONES",
+    "webartist": "trevorjones"
+  },
+  {
+    "id_artist": 21479,
+    "artist": "TROGGS",
+    "webartist": "troggs"
+  },
+  {
+    "id_artist": 27261,
+    "artist": "U2",
+    "webartist": "u2"
+  },
+  {
+    "id_artist": 20667,
+    "artist": "VAN MORRISON",
+    "webartist": "vanmorrison"
+  },
+  {
+    "id_artist": 35314,
+    "artist": "VANDELLAS",
+    "webartist": "vandellas"
+  },
+  {
+    "id_artist": 21486,
+    "artist": "VELVET UNDERGROUND",
+    "webartist": "velvetunderground"
+  },
+  {
+    "id_artist": 45193,
+    "artist": "VERVE",
+    "webartist": "verve"
+  },
+  {
+    "id_artist": 9549,
+    "artist": "VILLAGE PEOPLE",
+    "webartist": "villagepeople"
+  },
+  {
+    "id_artist": 50303,
+    "artist": "WEEZER",
+    "webartist": "weezer"
+  },
+  {
+    "id_artist": 13061,
+    "artist": "WHO",
+    "webartist": "who"
+  },
+  {
+    "id_artist": 20701,
+    "artist": "WILSON PICKETT",
+    "webartist": "wilsonpickett"
+  },
+  {
+    "id_artist": 90964,
+    "artist": "YEAH YEAH YEAHS",
+    "webartist": "yeahyeahyeahs"
+  },
+  {
+    "id_artist": 21500,
+    "artist": "ZOMBIES",
+    "webartist": "zombies"
+  }
+]

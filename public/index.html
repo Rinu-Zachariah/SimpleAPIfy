@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html ng-app="mainApp">
+
+  <head>
+    <title>APIfy</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="stylesheets/style.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-aria.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-messages.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.8/angular-route.js"></script>
+  </head>
+
+  <body>
+  <div class="container" ng-controller="MainController">
+    <div>
+      <div data-ng-view=""></div>
+    </div>
+
+  </div>
+
+
+    
+    <script src="controller/Main.client.controller.js"></script>
+    <script src="routing/Main.client.routing.js"></script>
+  </body>
+
+</html>
